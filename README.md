@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Advaith, a CSE Core Student at Vellore Institute Of Technology, Vellore.
-Aspiring to become a Data Analyst.
+I'm Advaith, a Data Sciene Grad Student at University of Wisconsin - Madison.
+Aspiring to become a Data Scientist.
 I welcome you all to my repo!
 
